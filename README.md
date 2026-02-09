@@ -1,6 +1,43 @@
- Hi, I’m @AyetteBoubaya
-👀 I’m interested in web development, especially with Java Spring Boot, Angular, microservices, and Docker.
-🌱 I’m currently studying computer science at the Institut Supérieur de Mahdia.
-💞️ I’m looking to collaborate on projects related to web development and microservices architecture.
-📫 How to reach me: ayetteboubaya@gmail.com / www.linkedin.com/in/ayette-boubaya-a05621398/
-⚡ Fun fact: I'm passionate about learning new technologies and applying them to solve real-world problems!
+👋 Hi, I’m Ayette Boubaya
+🚀 About Me
+
+I’m a passionate Web Developer with a strong interest in building scalable, modern, and maintainable applications.
+I enjoy working on real-world projects and continuously improving my skills in backend and full-stack development.
+
+🎓 Education
+
+🎓 National Bachelor’s Degree (Licence Nationale) in Software Engineering and Information Systems
+Institut Supérieur de Mahdia
+
+🎓 Engineering Cycle (2025 – 2028) – ESPRIT
+Specializing in Computer Science & Software Engineering
+
+🛠️ Technical Skills
+
+Backend: Java, Spring Boot, REST APIs, Microservices
+
+Frontend: Angular, HTML, CSS, TypeScript
+
+DevOps & Tools: Docker, Git, GitHub
+
+Architecture: Microservices, Clean Architecture
+
+🤝 Collaboration
+
+I’m open to collaborating on:
+
+Web development projects
+
+Microservices-based systems
+
+Backend & full-stack applications
+
+📫 How to Reach Me
+
+📧 Email: ayetteboubaya@gmail.com
+
+💼 LinkedIn: Ayette Boubaya
+
+⚡ Fun Fact
+
+I love learning new technologies and applying them to solve real-world problems 🚀
