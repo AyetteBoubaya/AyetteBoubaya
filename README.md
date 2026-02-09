@@ -36,7 +36,7 @@ Backend & full-stack applications
 
 📧 Email: ayetteboubaya@gmail.com
 
-💼 LinkedIn: Ayette Boubaya
+💼 LinkedIn: https://www.linkedin.com/in/ayette-boubaya-a05621398/
 
 ⚡ Fun Fact
 
