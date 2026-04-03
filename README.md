@@ -1,43 +1,60 @@
-👋 Hi, I’m Ayette Boubaya
-🚀 About Me
+<div align="center">
 
-I’m a passionate Web Developer with a strong interest in building scalable, modern, and maintainable applications.
-I enjoy working on real-world projects and continuously improving my skills in backend and full-stack development.
+# Ayette Boubaya
 
-🎓 Education
+**Web Developer · Full-Stack · Microservices**
 
-🎓 National Bachelor’s Degree (Licence Nationale) in Software Engineering and Information Systems
-Institut Supérieur de Mahdia
+*Passionate about building scalable, modern, and maintainable applications.*
+*Currently advancing toward an engineering degree at ESPRIT, focused on backend architecture and clean code.*
 
-🎓 Engineering Cycle (2025 – 2028) – ESPRIT
-Specializing in Computer Science & Software Engineering
+[![Email](https://img.shields.io/badge/Email-ayetteboubaya@gmail.com-0F6E56?style=flat-square&logo=gmail&logoColor=white)](mailto:ayetteboubaya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayette%20Boubaya-185FA5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayette-boubaya-a05621398/)
 
-🛠️ Technical Skills
+</div>
 
-Backend: Java, Spring Boot, REST APIs, Microservices
+---
 
-Frontend: Angular, HTML, CSS, TypeScript
+## 🎓 Education
 
-DevOps & Tools: Docker, Git, GitHub
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| Licence Nationale — Software Engineering & Information Systems | Institut Supérieur de Mahdia | Completed |
+| Engineering Cycle — Computer Science & Software Engineering | ESPRIT | 2025 – 2028 |
 
-Architecture: Microservices, Clean Architecture
+---
 
-🤝 Collaboration
+## 🛠️ Technical Skills
 
-I’m open to collaborating on:
+**Backend**
+`Java` `Spring Boot` `REST APIs` `Microservices`
 
-Web development projects
+**Frontend**
+`Angular` `TypeScript` `HTML` `CSS`
 
-Microservices-based systems
+**DevOps & Tools**
+`Docker` `Git` `GitHub`
 
-Backend & full-stack applications
+**Architecture**
+`Microservices` `Clean Architecture`
 
-📫 How to Reach Me
+---
 
-📧 Email: ayetteboubaya@gmail.com
+## 🤝 Open to Collaborate
 
-💼 LinkedIn: https://www.linkedin.com/in/ayette-boubaya-a05621398/
+I'm always excited to work on:
+- Web development projects (backend, full-stack)
+- Microservices-based systems
+- Real-world applications where clean architecture matters
 
-⚡ Fun Fact
+---
 
-I love learning new technologies and applying them to solve real-world problems 🚀
+## 📫 Contact
+
+- **Email:** [ayetteboubaya@gmail.com](mailto:ayetteboubaya@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ayette-boubaya-a05621398](https://www.linkedin.com/in/ayette-boubaya-a05621398/)
+
+---
+
+<div align="center">
+  <sub>⚡ I learn new technologies by applying them to real problems — building is my default mode.</sub>
+</div>
